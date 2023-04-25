@@ -15,6 +15,8 @@
   <h6 align="center"> - Update total seats of a batch
   <h6 align="center"> - View the students of every batch
   <br>
+
+    
     
   <h3 align="center"> Roll of Student
   <h6 align="center"> - Register himself in a course with a username and password (email should be the username)
@@ -22,7 +24,14 @@
   <h6 align="center"> - can see all the available course list and their seat availability
   
   <br>
-    
+  <h2 align="left"> Utility Uses.
+  <br>
+  <h4 align="left"> Java Language on SpringtoolSuits (STS).
+  <h4 align="left"> JDBC DAO Pattern.
+  <h4 align="left"> Mysql DBA
+  <br>
+  <h2 align="center">Structure of Database (ER Diagram)
+  <br>
     
     
      
