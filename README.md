@@ -30,6 +30,7 @@
   <h4 align="left"> JDBC DAO Pattern.
   <h4 align="left"> Mysql DBA
   <br>
+  <br>
   <h2 align="center">Structure of Database (ER Diagram)
   <br>
     
