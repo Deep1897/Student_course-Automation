@@ -39,13 +39,14 @@
              <br>
        <h3 align="center"> ER diagram of My Database.
        <hr>
-<img src="https://user-images.githubusercontent.com/88429770/213914673-fd3cf367-bc7a-4677-9936-82086dcd747f.jpg">
+<img src="https://user-images.githubusercontent.com/88429770/234294678-1d234554-dfec-4416-a287-9d4e45c97a57.jpg">
 <h3 align="center"> ER diagram of My Project.
 <hr>
- <img src="https://user-images.githubusercontent.com/88429770/213915161-0f19c089-a312-4acb-b951-66136a9ecbd2.jpg">
+ <img src="https://user-images.githubusercontent.com/88429770/234294411-a220cb5f-d463-45fd-b4cf-abd5c15ea858.jpg">
 
 
 
    
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/88429770/234294678-1d234554-dfec-4416-a287-9d4e45c97a57.jpg)
 
 
