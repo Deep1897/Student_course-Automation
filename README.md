@@ -22,23 +22,10 @@
   <h6 align="center"> - can see all the available course list and their seat availability
   
   <br>
-      
     
     
- <h2 align="left" Technical Used> </h2>
-     <h6> - java
-     <h6> - MySql
-     <h6> - Git & Github
-
-       <h2> Lesson Learned.
-         <h6> Gain excessive knowledge over a java and mySql.
-           <h6> Enjoy the Process of learning and creating applications.
-       <h2> Overview of My Work
-         <h3 align="center"> ER diagram of My Database.
-           <h4 align="center">Bus Ticket Reservation System
-             <br>
-       <h3 align="center"> ER diagram of My Database.
-       <hr>
+    
+     
 <img src="https://user-images.githubusercontent.com/88429770/234294678-1d234554-dfec-4416-a287-9d4e45c97a57.jpg">
 <h3 align="center"> ER diagram of My Project.
 <hr>
