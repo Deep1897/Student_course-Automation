@@ -47,6 +47,5 @@
 
 
    
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/88429770/234294678-1d234554-dfec-4416-a287-9d4e45c97a57.jpg)
 
 
