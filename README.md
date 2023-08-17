@@ -1,7 +1,7 @@
 
 <h1 align="center">Automated Student Registration System </h1>
 <h5 align="center"> Hi, I am Deep Raj Singh a Java Backend Developer and very thankfull to giving me an extreame oppertunity to create a pleasent project
-  that is Bus Automated Student Registration System. During creating this project I learned many experiences and I am so happy about it</h5> 
+  that is Automated Student Registration System. During creating this project I learned many experiences and I am so happy about it</h5> 
   <h2 align="left">About Project.
   <h6>We have an organisation that have facility to teach the courses to the student and have some courses alloted to the studentwhere student can admit in any or many specific courses and they can log in with his user id and password and ther is administrator roll that is create, delete, update fee, deciding number of seats,create batch etc as you seen below<h6>
 <h2 align="left"> Features.
